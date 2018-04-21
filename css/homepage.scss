@@ -1,0 +1,15 @@
+---
+# SCSS for index.html
+---
+@charset "utf-8";
+
+nav.navbar {
+    margin-bottom: 0 !important;
+}
+
+#backdrop {
+  background-image: url('{{ site.baseurl }}/img/backgrounds/cb_aereo.jpg');
+  background-position: center center;
+  height: 100%;
+  background-size: cover;
+}

@@ -1,0 +1,17 @@
+main:
+    -   name: Início
+        url: /
+    -   name: Sobre
+        url: /about/
+    # -   name: Get Involved
+    #     url: /get_involved
+    -   name: Dados
+        url: /catalog/
+    -   name: Contribua
+        url: /submit/
+    -   name: Debata
+        url: https://www.facebook.com/groups/1469864286395491/
+    -   name: GitHub
+        url: https://github.com/Maronato/transparencia-data-catalog
+    -   name: Facebook
+        url: https://www.facebook.com/TransparenciaUNICAMP/
