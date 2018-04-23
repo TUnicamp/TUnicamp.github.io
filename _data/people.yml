@@ -1,18 +1,45 @@
+-   name: Ana Romagnolo
+    image:
+    course: Arquitetura
+    year: 2015
+    bio: Graduanda em Arquitetura e Urbanismo na Unicamp desde 2015, participou em 2016 da equipe do TU quando o projeto ainda estava em seu inicio. Considerando o interesse por design gráfico e  contribuiu na produção de material para a divulgação dos dados coletados pela equipe, além de auxiliar na coordenação de atividades.
+-   name: Brenda Ribeiro
+    image: brenda_ribeiro.png
+    course: Economia
+    year: 2015
+    bio: Graduanda do 4º ano de Economia na UNICAMP, participou da equipe do TU em 2016. Trabalhou principalmente com coleta e análise de dados referentes a infraestrutura da Universidade, chegando a conclusão que entender o financiamento das construções  da UNICAMP é legal, mas ocupar seus espaços, festejar e beber cerveja neles é mais legal ainda.
 -   name: Gustavo Maronato
-    # url: https://www.linkedin.com/in/neelmehta18
-    role: Membro
+    url: https://www.linkedin.com/in/neelmehta18
     image: gustavo-maronato.jpg
--   name: Vladmir Sicca
-    role: Membro
-    image: vladmir-sicca.jpg
--   name: Matheus Ávila
-    role: Membro
-    image: matheus-avila.jpg
 -   name: João Luiz Carabetta
-    role: Membro
+    url: https://joaocarabetta.github.io
+    course: Física
+    year: 2011
+    bio: Físico dos dados abertos, para entender o que estava acontecendo na administração da Unicamp resolveu juntar as exatas, as humanas e o design para desmistificar as contas universitárias.
+-   name: Matheus Ávila
+    url: https://www.linkedin.com/in/matheus-avila-22051997
+    year: 2015
+    course: Economia
+    bio: Aluno de graduação que fez parte do time de análise de dados do TU. Colaborou com diversos projetos como a Mesa do TU e esteve presente nas entrevistas com os então candidatos a reitor da Unicamp. Acredita em uma universidade livre, transparente e democrática.
+    image: matheus-avila.jpg
+-   name: Micael Waldhelm
+    image: micael.jpg
+    course: Engenharia Química
+    year: 2014
+    bio: Sou uma pessoa apaixonada por coisa novas e que de preferência tragam mudança do status quo, como Jesus, que há 2000 anos atrás sacudiu a estrutura do império romano (Sim, sou cristão e Ele é meu Ídolo/Roll Model), tanto que acabei parando em uma startup. Netflix nos finais de semana e tentativas de ser fitness durante a semana se encaixam em uma rotina que ainda não descobri como faço para lidar. Dizem por aí que sou marketeiro, mas juro de pé junto que números ainda são meus melhores amigos.
 -   name: Natan Ferreira
+    year: 2014
     image: natan-ferreira.jpg
-    role: Membro
+    bio: Designer autodidata, ingressou no curso de arquitetura da Unicamp em em 2014. No TU contribuiu na elaboração da identidade visual e integrando à equipe de design/data visualization.
+-   name: Rafael Marengoni
+    image: rafael_marengoni.jpg
+    course: Arquitetura
+    year: 2011
+    bio: Arquiteto Urbanista, formado em 2017 pela Universidade Estadual de Campinas (Unicamp), foi um dos fundadores da organização Transparência Unicamp, junto de João Luiz Carabetta em 2016, se envolveu nas atividades de pesquisa e produção de conteúdo para o TU coordenando as atividades de Data Visualization e Design.
 -   name: Rodolfo
-    role: Mentor
     image: rodolfo-jardim.jpg
+-   name: Vladmir Sicca
+    image: vlad.png
+    course: Matemática
+    year: 2008
+    bio: Entrou na Unicamp em 2008 para estudar Arquitetura e Urbanismo. Acabou fazendo na verdade Bacharelado e Mestrado em Matemática antes de ir fazer o doutorado em Matemática na Universidade de McGill, no Canadá (em andamento). Cria horas vagas para acumular informações sobre o mundo e a Unicamp em particular.
